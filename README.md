@@ -14,3 +14,4 @@ A Java web application developed in Eclipse for connecting blood donors with see
 * **Database:** MySQL
 * **IDE:** Eclipse IDE for Enterprise Java / Web Developers
 * **Server:** Apache Tomcat
+![Dashboard Screenshot](dashboard.png)
